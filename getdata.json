@@ -1,0 +1,20 @@
+[
+	{
+		"buku": [
+			{
+			"id_buku" : "32",
+			"nm_buku" : "javascript",
+			"pengarang": "hendro",
+			"tahun" : "2018",
+			"kota": "Jepara"
+			},
+			{
+			"id_buku": "33",
+			"nm_buku": "database pemula 2",
+			"pengarang": "leonardo",
+			"tahun": "2019",
+			"kota": "jepara"
+			}
+		]
+	}
+]
